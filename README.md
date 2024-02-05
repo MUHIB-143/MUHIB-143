@@ -1,6 +1,6 @@
 <a href="https://github.com/MUHIB-143"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MUHIB-143&theme=monokai"></a>
 # PROJECTS 
-  [<img src="file/logo.png" alt="DELIGHT PAINTING" height="80" align="center">](https://github.com/MUHIB-143/DELIGHT-PAINTING/releases/download/Service/DELIGHT_PAINTING.apk)
+  [<img src="file/logo.png" alt="DELIGHT PAINTING" align="center">](https://github.com/MUHIB-143/DELIGHT-PAINTING/releases/download/Service/DELIGHT_PAINTING.apk)
 
 
 
